@@ -25,3 +25,16 @@ To measure the strength and reliability of product combinations, the analysis us
 - `Basket Analysis - AA.html` — Final report with results and visualizations, ready to view in any browser.  
 - `Basket Analysis - AA.ipynb` — Jupyter Notebook for running or modifying the analysis.  
 - `Groceries_dataset.csv` — The dataset containing grocery transactions used for the analysis. This file should be in the same folder as the notebook to run the code without changes.
+
+## ⚡ How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/aamine93/market-basket-analysis.git
+   cd market-basket-analysis
+   ```
+2. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook "Basket Analysis - AA.ipynb"
+   ```
+3. Ensure `Groceries_dataset.csv` is in the same folder as the notebook.
+4. Run all cells to reproduce the analysis.
